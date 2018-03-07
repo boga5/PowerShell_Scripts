@@ -8,3 +8,6 @@ function <function_name> {
 and press enter and write your function method 
 then close the function using
 }
+
+Execute the function using
+> Multiply_Number 7 3
