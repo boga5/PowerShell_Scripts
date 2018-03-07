@@ -4,7 +4,7 @@ $args[0] * $args[1]
 
 
 #Just type 
-#function <function_name> { 
+function <function_name> { 
 and press enter and write your function method 
 then close the function using
-#}
+}
