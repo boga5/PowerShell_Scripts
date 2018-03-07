@@ -1,0 +1,4 @@
+function Find-Income {
+param( [int]$Savings, [int]$Expenditure )
+$Savings + $Expenditure
+}
