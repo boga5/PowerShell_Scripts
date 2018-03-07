@@ -2,3 +2,7 @@ function Find-Income {
 param( [int]$Savings, [int]$Expenditure )
 $Savings + $Expenditure
 }
+
+
+Execute the function using
+Find-Income 4000 6000
